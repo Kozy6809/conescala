@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: conescala
+Implementation-Title: conescala
+Implementation-Version: 0.1-SNAPSHOT
+Implementation-Vendor-Id: conescala
+Specification-Vendor: conescala
+Specification-Title: conescala
+Specification-Version: 0.1-SNAPSHOT
+Main-Class: conescala.Main
+
